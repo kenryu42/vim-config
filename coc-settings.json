@@ -1,0 +1,19 @@
+{
+    "coc.preferences.formatOnSaveFiletypes": [
+        "css",
+        "markdown",
+        "json",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "prettier.tabWidth": 4,
+    "eslint.autoFixOnSave": true,
+    "tsserver.enableJavascript": true,
+    "go.goplsOptions": {
+        "completeUnimported": true
+    },
+    "clangd.path": "/Users/liewjenglung/.config/coc/extensions/coc-clangd-data/install/11.0.0/clangd_11.0.0/bin/clangd",
+    "snippets.userSnippetsDirectory": "~/.config/nvim/snips"
+}
