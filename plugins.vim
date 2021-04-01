@@ -8,7 +8,6 @@ Plug 'pbondoer/vim-42header'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'Shougo/defx.nvim', { 'do': ':UpdateRemotePlugins' }
-Plug 'Shougo/denite.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'ryanoasis/vim-devicons'
 Plug 'kristijanhusak/defx-git'
 Plug 'kristijanhusak/defx-icons'
